@@ -1,2 +1,5 @@
 # LionizeR
-Experiments with Summarization, Long Context and Retrieval
+
+"lionize" means to give a lot of public attention and approval to.
+
+This is our attempt to give attention to experiments with summarization, long Context and retrieval.
